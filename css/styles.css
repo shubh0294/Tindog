@@ -176,7 +176,8 @@ h2 {
   margin-top: 10px;
 }
 
-@media(max-width:1028px) {
+@media(max-width:1028px) 
+{
   .iphone6 {
     position: static;
     transform: rotate(0);
